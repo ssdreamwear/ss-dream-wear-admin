@@ -2,6 +2,8 @@ backend:
   name: git-gateway
   branch: main
 
+site_url: https://keen-mousse-ba761c.netlify.app
+
 media_folder: "images"
 public_folder: "/images"
 
